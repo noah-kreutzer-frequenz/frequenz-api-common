@@ -13,3 +13,5 @@ Update of the `PaginationParams` struct.
   to represent HVAC (Heating, Ventilation, and Air Conditioning) systems.
 
 - Additional information for energy metric
+
+- Add conductor metrics to the proto definitions
